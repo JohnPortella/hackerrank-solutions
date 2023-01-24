@@ -1,3 +1,5 @@
+![Language](https://img.shields.io/badge/language-python-blue.svg)
+
 # 30 DAYS OF CODE
 
 | Day |                                                Challenge                                              				  |                                                                                           Solution                                                                                                                              									   
