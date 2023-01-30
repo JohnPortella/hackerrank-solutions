@@ -10,4 +10,4 @@
 |  3  | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)   	             | [d3_intro_to_conditional_statements.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d3_intro_to_conditional_statements.py)               									          |		
 |  4  | [Class vs Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)   	             | [d4_class_vs_instance.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d4_class_vs_instance.py)               									          |		
 |  5  | [Loops](https://www.hackerrank.com/challenges/30-loops/problem)   	             | [d5_loops.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d5_loops.py)               									          |	
-
+|  6  | [Review Loop](https://www.hackerrank.com/challenges/30-review-loop/problem)   	             | [d6_review_loop.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d6_review_loop.py)               									          |	
