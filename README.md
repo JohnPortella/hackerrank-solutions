@@ -24,7 +24,7 @@
 
 # PREPARE PYTHON
 
-| Day |                                                Challenge                                              				  |                                                                                           Solution                                                                                                                              									   
+| Problem |                                                Challenge                                              				  |                                                                                           Solution                                                                                                                              									   
 |:---:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  0  | [Designer Door_Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)                                  				  | [designer_door_mat.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/Prepare/designer_door_mat.py)               									    |											
+|  1  | [Designer Door_Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)                                  				  | [designer_door_mat.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/Prepare/designer_door_mat.py)               									    |											
 
