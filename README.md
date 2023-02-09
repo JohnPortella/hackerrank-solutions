@@ -21,6 +21,7 @@
 |  14  | [Scope](https://www.hackerrank.com/challenges/30-scope/problem)   	             | [d14_scope.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d14_scope.py)               									          |	
 |  15  | [Linked list](https://www.hackerrank.com/challenges/30-linked-list/problem)   	             | [d15_linked_list.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d15_linked_list.py)               									          |	
 |  16  | [Exceptions](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)   	             | [d16_exceptions.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d16_exceptions.py)               									          |	
+|  17  | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)   	             | [d17_more_exceptions.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d17_more_exceptions.py)               									          |	
 
 # PREPARE PYTHON
 
