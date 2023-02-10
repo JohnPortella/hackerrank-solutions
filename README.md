@@ -22,6 +22,7 @@
 |  15  | [Linked list](https://www.hackerrank.com/challenges/30-linked-list/problem)   	             | [d15_linked_list.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d15_linked_list.py)               									          |	
 |  16  | [Exceptions](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)   	             | [d16_exceptions.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d16_exceptions.py)               									          |	
 |  17  | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)   	             | [d17_more_exceptions.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d17_more_exceptions.py)               									          |	
+|  18  | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem)   	             | [d18_queues_stacks.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d18_queues_stacks.py)               									          |	
 
 # PREPARE PYTHON
 
