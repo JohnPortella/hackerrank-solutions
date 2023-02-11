@@ -23,6 +23,7 @@
 |  16  | [Exceptions](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)   	             | [d16_exceptions.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d16_exceptions.py)               									          |	
 |  17  | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)   	             | [d17_more_exceptions.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d17_more_exceptions.py)               									          |	
 |  18  | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem)   	             | [d18_queues_stacks.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d18_queues_stacks.py)               									          |	
+|  19  | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem)   	             | [d19_interfaces.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d19_interfaces.py)               									          |	
 
 # PREPARE PYTHON
 
