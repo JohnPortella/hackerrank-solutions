@@ -27,6 +27,7 @@
 |  20  | [Sorting](https://www.hackerrank.com/challenges/30-sorting/problem)   	             | [d20_sorting.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d20_sorting.py)               									          |	
 |  21  | [Generics](https://www.hackerrank.com/challenges/30-generics/problem)   	             | [d21_generics.java (No python)](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d21_generics.java)               									          |	
 |  22  | [Binary Search Tree](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)   	             | [d22_binary_search_trees.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d22_binary_search_trees.py)               									          |	
+|  23  | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem)   	             | [d23_binary_trees.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d23_binary_trees.py)               									          |	
 
 # PREPARE PYTHON
 
