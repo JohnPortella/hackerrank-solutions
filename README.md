@@ -29,6 +29,7 @@
 |  22  | [Binary Search Tree](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)   	             | [d22_binary_search_trees.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d22_binary_search_trees.py)               									          |	
 |  23  | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem)   	             | [d23_binary_trees.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d23_binary_trees.py)               									          |	
 |  24  | [More Linked List](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)   	             | [d24_more_linked_list.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d24_more_linked_list.py)               									          |	
+|  25  | [Running time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)   	             | [d25_running_time_and_complexity.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d25_running_time_and_complexity.py)               									          |
 
 # PREPARE PYTHON
 
