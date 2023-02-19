@@ -1,6 +1,5 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 from datetime import datetime
-import calendar
 
 def get_fine(date_returned, date_expected):
     days = (date_returned - date_expected).days
