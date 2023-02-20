@@ -32,7 +32,7 @@
 |  25  | [Running time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)   	             | [d25_running_time_and_complexity.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d25_running_time_and_complexity.py)               									          |
 |  26  | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)   	             | [d26_nested_logic.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d26_nested_logic.py)               									          |
 |  27  | [Testing](https://www.hackerrank.com/challenges/30-testing/problem)   	             | [d27_testing.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d27_testing.py)               									          |
-
+|  28  | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem)   	             | [d28_regex_patterns.py](https://github.com/JohnPortella/hackerrank-solutions/blob/main/30DaysOfCode/d28_regex_patterns.py)               									          |
 
 # PREPARE PYTHON
 
